@@ -62,8 +62,8 @@ body, html {
 }
 
 .text-content {
-  flex: 1 1 70%;
-  max-width: 70vw;
+  flex: 1 1 60%;
+  max-width: 50vw;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -81,13 +81,13 @@ body, html {
 }
 
 .alterego-name {
-  font-size: 3.5rem;
+  font-size: 2rem;
   opacity: 0;
   text-shadow: 0 0 20px rgba(255,255,255,0.1);
 }
 
 .alterego-desc {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.6;
   opacity: 0;
   max-width: 100%;
